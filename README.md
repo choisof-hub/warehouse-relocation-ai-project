@@ -58,26 +58,6 @@
 
 ---
 
-## サンプル画面
-
-### 旧棚番配置図
-
-![旧棚番配置図](images/old_layout.png)
-
-### 新棚番配置図
-
-![新棚番配置図](images/new_layout.png)
-
-### 新旧棚番変換表
-
-![新旧棚番変換表](images/conversion_table.png)
-
-### 更新用Excelファイル
-
-![更新用Excelファイル](images/update_file.png)
-
----
-
 ## 背景
 
 移転作業では、旧倉庫の商品を新倉庫へ運搬しますが、
