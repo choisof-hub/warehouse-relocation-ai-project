@@ -265,16 +265,16 @@ AIは強力な支援ツールですが、実務で成果を出すためには業
 
 ### 旧棚番配置図
 
-![旧棚番配置図](images/old_layout.png)
+![旧棚番配置図](sample_data/old_layout.png)
 
 ### 新棚番配置図
 
-![新棚番配置図](images/new_layout.png)
+![新棚番配置図](sample_data/new_layout.png)
 
 ### 新旧棚番変換表
 
-![新旧棚番変換表](images/conversion_table.png)
+![新旧棚番変換表](sample_data/conversion_table.png)
 
 ### 更新用Excelファイル
 
-![更新用Excelファイル](images/master_update.png)
+![更新用Excelファイル](sample_data/master_update.png)
